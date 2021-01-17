@@ -5,6 +5,9 @@
 
 [![](https://raw.githubusercontent.com/TakadaHideaki/TakadaHideaki/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://raw.githubusercontent.com/TakadaHideaki/TakadaHideaki/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 
 
